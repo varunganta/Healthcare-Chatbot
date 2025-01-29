@@ -1,0 +1,19 @@
+{
+    "first_name": "John",
+    "last_name": "Doe",
+    "address": "123 Elm Street, Cityville",
+    "insurance_status": "Active",
+    "policy_start_date": "2025-01-01",
+    "policy_end_date": "2025-12-31",
+    "policy_number": "ABC123456",
+    "dob": "2001-07-17",
+    "mobile_number": "5454654632",
+    "email": "rgt@gmail.com",
+    "nationality": "Indian",
+    "gender": "",
+    "visa_type": "None",
+    "doctor": "Karthik",
+    "emergency_contact_relation": "Mother",
+    "emergency_contact_name": "Sreeleela",
+    "emergency_contact": "1234567898"
+}
